@@ -1,7 +1,7 @@
 //input/output: string / string with each consonant doubled
 //rules: - the function shouldn't double vowels, digits, punctuation, whitespace
 //data structures: regular expression
-//SET regex = all alphabetic characters except vowels ('a','e','i','o','u')
+//SET regex = all alphabetical characters except vowels ('a','e','i','o','u')
 //SET doubled = ""
 //SET count = 0
 //WHILE count < string's length
